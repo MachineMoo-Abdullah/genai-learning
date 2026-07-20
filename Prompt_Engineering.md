@@ -143,9 +143,9 @@ Some common mistakes include:
 
 -Being too vague
 
-❌ Explain AI.
+Don't write "Explain AI".
 
-✅ Explain AI for beginners using simple language.
+Write "Explain AI for beginners using simple language".
 
 -Missing context
 
