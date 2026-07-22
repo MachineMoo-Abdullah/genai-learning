@@ -1,3 +1,5 @@
+import re
+
 import requests
 from openai import OpenAI
 
@@ -15,11 +17,14 @@ def ask_groq(history, model_name):
 
     response = client.chat.completions.create(
         model=model_name,
-        messages=history
+        messages=history,
     )
+    content = response.choices[0].message.content
 
-    return response.choices[0].message.content
+    # Remove thinking tags if present
+    content = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL).strip()
 
+    return content
 
 
 
