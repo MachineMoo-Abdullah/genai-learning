@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "What gets wetter the more it dries?",
+    "answer": "A towel"
+  },
+  {
+    "id": 2,
+    "question": "What has keys but can't open locks?",
+    "answer": "A piano"
+  },
+  {
+    "id": 3,
+    "question": "The more you take, the more you leave behind. What are they?",
+    "answer": "Footsteps"
+  },
+  {
+    "id": 4,
+    "question": "What has one eye but cannot see?",
+    "answer": "A needle"
+  },
+  {
+    "id": 5,
+    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "answer": "The letter M"
+  },
+  {
+    "id": 6,
+    "question": "I speak without a mouth and hear without ears. What am I?",
+    "answer": "An echo"
+  },
+  {
+    "id": 7,
+    "question": "What can travel around the world while staying in one corner?",
+    "answer": "A stamp"
+  },
+  {
+    "id": 8,
+    "question": "What has many teeth but cannot bite?",
+    "answer": "A comb"
+  },
+  {
+    "id": 9,
+    "question": "A man was born in 2000 but died in 1995. How is this possible?",
+    "answer": "Room number 2000; 1995 was the room number where he died."
+  },
+  {
+    "id": 10,
+    "question": "If you have me, you want to share me. If you share me, you no longer have me. What am I?",
+    "answer": "A secret"
+  },
+  {
+    "id": 11,
+    "question": "What has hands but cannot clap?",
+    "answer": "A clock"
+  },
+  {
+    "id": 12,
+    "question": "What begins with T, ends with T, and has T inside?",
+    "answer": "A teapot"
+  },
+  {
+    "id": 13,
+    "question": "The person who makes it doesn't use it. The person who buys it doesn't use it. The person who uses it doesn't know they're using it. What is it?",
+    "answer": "A coffin"
+  },
+  {
+    "id": 14,
+    "question": "Which weighs more: a kilogram of iron or a kilogram of cotton?",
+    "answer": "They weigh the same."
+  },
+  {
+    "id": 15,
+    "question": "What can fill a room but takes up no space?",
+    "answer": "Light"
+  },
+  {
+    "id": 16,
+    "question": "I have cities but no houses, forests but no trees, and rivers but no water. What am I?",
+    "answer": "A map"
+  },
+  {
+    "id": 17,
+    "question": "What goes up but never comes down?",
+    "answer": "Your age"
+  },
+  {
+    "id": 18,
+    "question": "What has a neck but no head?",
+    "answer": "A bottle"
+  },
+  {
+    "id": 19,
+    "question": "What has an endless supply of letters but starts empty?",
+    "answer": "A mailbox"
+  },
+  {
+    "id": 20,
+    "question": "Forward I am heavy, backward I am not. What am I?",
+    "answer": "The word 'ton'"
+  }
+]
