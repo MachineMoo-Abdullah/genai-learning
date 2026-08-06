@@ -6,7 +6,7 @@ from providers.ollama import OllamaProvider
 from providers.openrouter import OpenRouterProvider
 
 # Initialize providers
-ollama = OllamaProvider(model="qwen2.5:latest")
+ollama = OllamaProvider()
 openrouter = OpenRouterProvider()
 
 # Load prompts
@@ -14,6 +14,7 @@ with open(
     "weeek-2-Day-1/prompts/reasoning_prompts.json",
     "r",
     encoding="utf-8"
+
 ) as f:
     prompts = json.load(f)
 
