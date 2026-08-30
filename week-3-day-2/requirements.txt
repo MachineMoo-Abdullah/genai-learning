@@ -1,0 +1,6 @@
+gradio
+Pillow
+accelerate
+sentencepiece
+datasets
+librosa
