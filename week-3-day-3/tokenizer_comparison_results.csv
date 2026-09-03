@@ -1,0 +1,8 @@
+Text,Sample,Phi,DeepSeek,Qwen
+Sentence 1,"Hello, how are you?",6,6,6
+Sentence 2,Generative AI is changing software development.,8,8,8
+Code,"def calculate_sum(a, b): return a + b",11,11,11
+Numbers,123456789,3,3,9
+Sentence 5,Artificial intelligence is amazing!,6,5,6
+Technical paragraph,"Large language models transform text into numerical token IDs before processing it with transformer layers. Tokenization therefore affects the effective context length, computational work, and the amount of text that can be represented inside a fixed token budget.",43,43,43
+Non-English (Urdu),مصنوعی ذہانت دنیا کو بدل رہی ہے۔,32,17,22
