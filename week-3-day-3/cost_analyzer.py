@@ -19,8 +19,6 @@ MODEL_IDS = {
     "Qwen2.5-Coder": "Qwen/Qwen2.5-Coder-0.5B-Instruct",
 }
 
-# Educational defaults, intentionally editable.
-# Do not treat these as guaranteed API limits/prices for a provider.
 DEFAULT_CONTEXT = {
     "Llama 3.1": 131072,
     "Phi-4": 16384,

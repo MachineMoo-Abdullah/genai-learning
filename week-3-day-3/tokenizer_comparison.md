@@ -4,10 +4,9 @@
 
 This project compares tokenizer behavior for:
 
-- Llama 3.1 Instruct
 - Phi-4
 - DeepSeek-V3
-- Qwen2.5-Coder
+- Qwen2.5-Coder (instructor)
 
 The full language models are **not** loaded. Only tokenizer files are downloaded.
 
@@ -39,16 +38,20 @@ The comparison includes:
 
 After running the script, copy the measured values into this table.
 
-| Text | Llama | Phi | DeepSeek | Qwen |
-|---|---:|---:|---:|---:|
-| Sentence 1 | | | | |
-| Sentence 2 | | | | |
-| Code | | | | |
-| Numbers | | | | |
-| Sentence 5 | | | | |
-| Technical paragraph | | | | |
-| Non-English (Urdu) | | | | |
-| **Total** | | | | |
+
+               Text  Phi  DeepSeek  Qwen
+         Sentence 1    6         6     6
+         Sentence 2    8         8     8
+               Code   11        11    11
+            Numbers    3         3     9
+         Sentence 5    6         5     6
+Technical paragraph   43        43    43
+ Non-English (Urdu)   32        17    22
+
+TOTAL TOKENS
+Phi         109
+DeepSeek     93
+Qwen        105
 
 ## Questions
 
